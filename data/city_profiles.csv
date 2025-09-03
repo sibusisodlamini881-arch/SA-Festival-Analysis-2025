@@ -1,1 +1,7 @@
 city,population,venue_capacity,airport_passengers,tourism_score_proxy
+Johannesburg,6444580,94736,18533673,0.8
+Cape Town,5063580,55000,10400000,1.0
+Pretoria,2955410,51762,18533673,0.45
+Durban,3301000,56000,4994852,0.6
+Makhanda,97815,15000,0,0.2
+
