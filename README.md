@@ -87,7 +87,7 @@ Strategic Future Cities → Durban & Pretoria (expand hotel capacity to capture 
 
 📑 Exported PDF Report (https://github.com/sibusisodlamini881-arch/SA-Festival-Analysis-2025/blob/main/dashboards/SA%20Festivals%202025%20Project.pdf)
 
-📷 Dashboard Screenshots
+📷 Dashboard Screenshots (https://github.com/sibusisodlamini881-arch/SA-Festival-Analysis-2025/blob/main/images/Screenshot%202025-09-07%20184921.png)
 
 📓 Data Analysis Notebooks
 
