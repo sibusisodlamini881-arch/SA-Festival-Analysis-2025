@@ -16,6 +16,8 @@ This project analyzes festival attendance and economic impact across South Afric
 
 ## Dashboards
 Interactive dashboards show city scores, attendance, and economic impact projections.
+[Power BI file] (https://github.com/sibusisodlamini881-arch/SA-Festival-Analysis-2025/blob/main/dashboards/SA%20Festivals%202025%20Project.pbix)
+[Exported PDF] (https://github.com/sibusisodlamini881-arch/SA-Festival-Analysis-2025/blob/main/dashboards/SA%20Festivals%202025%20Project.pdf)
 
 ## How to Run
 1. Clone the repo
